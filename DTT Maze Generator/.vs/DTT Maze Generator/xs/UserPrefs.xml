@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{3375FE24-F323-F4B0-BA99-B85711193DBA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Maze.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Maze.cs" Line="253" Column="45" />
+      <File FileName="Assets/Scripts/IndividualCell.cs" Line="8" Column="28" />
+      <File FileName="Assets/Scripts/DisplayXY.cs" Line="7" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DTT Maze Generator" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Maze.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4b6f482c-9246-40f2-90a7-ed5d3f048042" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
